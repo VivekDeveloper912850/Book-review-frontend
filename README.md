@@ -42,7 +42,7 @@ This is the frontend application for the Book Review project. It provides a user
 
 Start the development server:
 ```bash
-npm start
+npm run dev
 ```
 The app will run at `http://localhost:5173`.
 
